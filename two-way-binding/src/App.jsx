@@ -10,7 +10,7 @@ function App() {
 
   const submitHandler = (e) => {
     e.preventDefault()
-    console.log('Form submitted by ' ,name)
+    console.log('Form submitted by ' )
     
   }
 
