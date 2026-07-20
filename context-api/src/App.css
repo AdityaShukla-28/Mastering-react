@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding: 0;
+}
+html,body{
+  background-color:black;
+  color:aliceblue;
+  height: 100%;
+  width:100%;
+
+}
+.Navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background-color: rgb(86, 166, 166);
+}
+.Nav2{
+  display:flex;
+  gap: 70px;
+
+}
